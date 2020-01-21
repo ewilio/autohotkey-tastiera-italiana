@@ -17,4 +17,4 @@ Lista dei comandi:
 | `CTRL` + `SHIFT` + `'`| `’`| apostrofo |
 | `CTRL` + `ALT` + `<`| `«` |  |
 | `CTRL` + `SHIFT` + `<`| `»` |  |
-| `CTRL` + `SHIFT` + `|` | `¦` | |
+| `CTRL` + `SHIFT` + `` \|`` | `¦` | |

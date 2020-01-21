@@ -1,4 +1,3 @@
-# ahk-italian-keyboard
 
 Tasti aggiuntivi per tastiera con layout italiana da usare con AutoHotKey.
 

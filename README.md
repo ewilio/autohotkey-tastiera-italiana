@@ -6,10 +6,10 @@ Sostituisce tasti usati pochissimo nella tastiera italiana e ne aggiunge altri.
 
 Lista dei comandi:
 
-|  Premendo   |  Si ottiene   | Note |
-| - | - ||
+| Premendo | Si ottiene | Note |
+| - | - |-|
 |  `§` | `~` | tilde |
-|  `ç` | ``` | backtick |
+|  `ç` | `` ` `` | backtick |
 | `CTRL` + `SHIFT` + `à` | `À` ||
 | `CTRL` + `SHIFT` + `è` | `È` ||
 | `CTRL` + `SHIFT` + `ì` | `Ì` ||

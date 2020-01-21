@@ -15,11 +15,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;------------------------------------;
 ; Vocali maiuscole con accento grave ;
-; CTRL + SHIFT + à = À               ;
-; CTRL + SHIFT + è = È               ;
-; CTRL + SHIFT + ì = Ì               ;
-; CTRL + SHIFT + ò = Ò               ;
-; CTRL + SHIFT + ù = Ù               ;
 ;------------------------------------;
 ^+à::À
 ^+è::È
@@ -27,3 +22,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ^+ì::Ì
 ^+ò::Ò
 ^+ù::Ù
+
+;--------------------------;
+; Altri caratteri speciali ;
+;--------------------------;
+^+'::’
+^!<::«
+^+<::»
+^+|::¦

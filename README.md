@@ -7,6 +7,7 @@ Caratteri aggiuntivi per tastiera con layout italiana da usare con AutoHotKey.
 |  `ç` | `` ` `` | backtick |
 | `CTRL` + `SHIFT` + `à` | `À` ||
 | `CTRL` + `SHIFT` + `è` | `È` ||
+| `CTRL` + `SHIFT` + `+` | `É` ||
 | `CTRL` + `SHIFT` + `ì` | `Ì` ||
 | `CTRL` + `SHIFT` + `ò` | `Ò` ||
 | `CTRL` + `SHIFT` + `ù` | `Ù` ||

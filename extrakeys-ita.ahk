@@ -18,7 +18,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;------------------------------------;
 ^+à::À
 ^+è::È
+^++::É
 ^+!è::{ ; Fix per parentesi graffa
+^+!+::} ; Fix per parentesi graffa
 ^+ì::Ì
 ^+ò::Ò
 ^+ù::Ù

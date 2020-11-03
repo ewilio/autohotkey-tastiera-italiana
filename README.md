@@ -1,5 +1,5 @@
 
-Caratteri aggiuntivi per tastiera con layout italiana da usare con AutoHotKey.
+Caratteri aggiuntivi per tastiera con layout italiano da usare con AutoHotKey.
 
 | Tasti | Risultato | Note |
 | - | - |-|

@@ -15,26 +15,24 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;------------------------------------;
 ; Vocali maiuscole con accento grave ;
-; CTRL + SHIFT + à = À               ;
-; CTRL + SHIFT + è = È               ;
-; CTRL + SHIFT + + = É               ;
-; CTRL + SHIFT + ì = Ì               ;
-; CTRL + SHIFT + ò = Ò               ;
-; CTRL + SHIFT + ù = Ù               ;
 ;------------------------------------;
-^+à::À
-^+è::È
-^++::É
+^+à::Send, À
+^+è::Send, È
 ^+!è::{ ; Fix per parentesi graffa
 ^+!+::} ; Fix per parentesi graffa
-^+ì::Ì
-^+ò::Ò
-^+ù::Ù
+^+ì::Send, Ì
+^+ò::Send, Ò
+^+ù::Send, Ù
+
+;------------------------------------;
+; Vocali maiuscole con accento acuto ;
+;------------------------------------;
+^++::Send, É
 
 ;--------------------------;
 ; Altri caratteri speciali ;
 ;--------------------------;
-^+'::’
-^!<::«
-^+<::»
-^+|::¦
+^+'::Send, ’
+^!<::Send, «
+^+<::Send, »
+^+|::Send, ¦

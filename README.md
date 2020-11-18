@@ -1,6 +1,8 @@
 
 Caratteri aggiuntivi per tastiera con layout italiano da usare con AutoHotKey.
 
+<img src="https://github.com/ewilio/autohotkey-tastiera-italiana/blob/master/extrakeys-ita.png" alt="Anteprima" width="80%"/>
+
 | Tasti | Risultato | Note |
 | - | - |-|
 |  `§` | `~` | tilde |

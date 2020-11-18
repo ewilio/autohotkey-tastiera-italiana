@@ -15,6 +15,7 @@ Caratteri aggiuntivi per tastiera con layout italiano da usare con AutoHotKey.
 | `CTRL` + `ALT` + `<`| `«` |  |
 | `CTRL` + `SHIFT` + `<`| `»` |  |
 | `CTRL` + `SHIFT` + `` \|`` | `¦` | |
+| `CTRL` + `SHIFT` + `-`| `—` | em dash |
 
 **Installazione**
 

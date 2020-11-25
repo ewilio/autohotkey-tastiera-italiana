@@ -37,3 +37,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ^+<::Send, »
 ^+|::Send, ¦
 ^+-::Send, —
+^!2::Send, “
+^+2::Send, ”

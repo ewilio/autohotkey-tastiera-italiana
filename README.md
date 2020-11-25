@@ -19,21 +19,21 @@ Per chi volesse invece utilizzare un layout tastiera dedicato consiglio: https:/
 
 | Tasti                     | Risultato | Note                                |
 | ------------------------- | --------- | ----------------------------------- |
-| `§` / `SHIFT` + `ù`       | `~`       | tilde                               |
-| `ç` / `SHIFT` + `ò`       | `` ` ``   | accento grave (backtick)            |
+| `§` / `SHIFT` + `ù`       | `~`       | Tilde                               |
+| `ç` / `SHIFT` + `ò`       | `` ` ``   | Accento grave (backtick)            |
 | `CTRL` + `SHIFT` + `à`    | `À`       | A maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `è`    | `È`       | E maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `+`    | `É`       | E maiuscola con accento acuto       |
 | `CTRL` + `SHIFT` + `ì`    | `Ì`       | I maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `ò`    | `Ò`       | O maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `ù`    | `Ù`       | U maiuscola con accento grave       |
-| `CTRL` + `SHIFT` + `'`    | `’`       | apostrofo                           |
-| `CTRL` + `ALT` + `<`      | `«`       | virgolette basse doppie di apertura |
-| `CTRL` + `SHIFT` + `<`    | `»`       | virgolette basse doppie di chiusura |
-| `CTRL` + `ALT` + `2`      | `“`       | virgolette alte doppie di apertura  |
-| `CTRL` + `SHIFT` + `2`    | `”`       | virgolette alte doppie di chiusura  |
-| `CTRL` + `SHIFT` + `-`    | `—`       | lineetta emme (em dash)             |
-| `CTRL` + `SHIFT` + ``\|`` | `¦`       | barra verticale spezzata            |
+| `CTRL` + `SHIFT` + `'`    | `’`       | Apostrofo                           |
+| `CTRL` + `ALT` + `<`      | `«`       | Virgolette basse doppie di apertura |
+| `CTRL` + `SHIFT` + `<`    | `»`       | Virgolette basse doppie di chiusura |
+| `CTRL` + `ALT` + `2`      | `“`       | Virgolette alte doppie di apertura  |
+| `CTRL` + `SHIFT` + `2`    | `”`       | Virgolette alte doppie di chiusura  |
+| `CTRL` + `SHIFT` + `-`    | `—`       | Lineetta emme (em dash)             |
+| `CTRL` + `SHIFT` + ``\|`` | `¦`       | Barra verticale spezzata            |
 
 ## Installazione
 

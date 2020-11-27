@@ -4,7 +4,7 @@
 
 Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali accentate maiuscole usate in Italiano ``À È É Ì Ò Ù``.
 
-Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”``, la lineetta emme ``—`` e la barra verticale (pipe) spezzata ``¦`` e il trattino alto (overscore) ‾.
+Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”``, la lineetta emme ``—`` e la barra verticale (pipe) spezzata ``¦`` e il trattino alto (overscore) ``‾``.
 
 Per i programmatori che non hanno una tastiera con layout US o US international, ho sostituito i tasti di paragrafo tipografico ``§`` e la c con cediglia ``ç``, che non credo siano molto usati, con tilde ``~`` e backtick `` ` `` rispettivamente.
 

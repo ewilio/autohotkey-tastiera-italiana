@@ -4,15 +4,16 @@
 
 Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali accentate maiuscole usate in Italiano ``À È É Ì Ò Ù``.
 
-Chi programma sa quanto sia di gran lunga migliore il layout di tastiera US o US-International, per questo ho sostituito i tasti di paragrafo tipografico ``§`` e la c con cediglia ``ç``, che non credo siano molto usati, con tilde ``~`` e backtick `` ` `` rispettivamente.
+Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”``, la lineetta emme ``—`` e la barra verticale (pipe) spezzata ``¦`` e il trattino alto (overscore) ‾.
 
-Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”``, la lineetta emme ``—`` e la barra verticale (pipe) spezzata ``¦``.
+Per i programmatori che non hanno una tastiera con layout US o US international, ho sostituito i tasti di paragrafo tipografico ``§`` e la c con cediglia ``ç``, che non credo siano molto usati, con tilde ``~`` e backtick `` ` `` rispettivamente.
 
-Ho cercato di usare i tasti non standard per non avere conflitti con altre combinazioni di tasti usati da altri programmi.
+Le combinazioni di tasti sono state collocate in modo logico in tasti non standard per non avere conflitti con altri programmi.
 
 ## Perché AutoHotKey e non un layout tastiera dedicato
 
 AutoHotKey consente di creare e utilizzare script per automatizzare molte operazioni (disponibili su https://www.autohotkey.com/boards/), occupa pochissima memoria nel sistema e se si volesse tornare alle impostazioni predefinite basta disattivare AutoHotKey o rimuovere il file.
+
 Per chi volesse invece utilizzare un layout tastiera dedicato consiglio: https://github.com/kolmogorov42/maiuscole-accentate
 
 ## Combinazioni di tasti
@@ -32,7 +33,8 @@ Per chi volesse invece utilizzare un layout tastiera dedicato consiglio: https:/
 | `CTRL` + `SHIFT` + `<`    | `»`       | Virgolette basse doppie di chiusura |
 | `CTRL` + `ALT` + `2`      | `“`       | Virgolette alte doppie di apertura  |
 | `CTRL` + `SHIFT` + `2`    | `”`       | Virgolette alte doppie di chiusura  |
-| `CTRL` + `SHIFT` + `-`    | `—`       | Lineetta emme (em dash)             |
+| `CTRL` + `SHIFT` + `-`    | `‾`       | Trattino alto (overscore)           |
+| `CTRL` + `ALT` + `-`      | `—`       | Lineetta emme (em dash)             |
 | `CTRL` + `SHIFT` + ``\|`` | `¦`       | Barra verticale spezzata            |
 
 ## Installazione

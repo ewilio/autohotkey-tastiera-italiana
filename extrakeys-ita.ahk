@@ -18,13 +18,17 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;------------------------------------;
 ^+à::Send, À
 ^+è::Send, È
-^!è::Send, {U+005B} ; Fix per parentesi quadra
-^!+::Send, {U+005D} ; Fix per parentesi quadra
-^+!è::Send, {U+007B} ; Fix per parentesi graffa
-^+!+::Send, {U+007D} ; Fix per parentesi graffa
 ^+ì::Send, Ì
 ^+ò::Send, Ò
 ^+ù::Send, Ù
+
+;---------------;
+; Fix parentesi ;
+;---------------;
+^!è::Send, {U+005B} ; parentesi quadra apertura
+^!+::Send, {U+005D} ; parentesi quadra apertura
+^+!è::Send, {U+007B} ; parentesi graffa apertura
+^+!+::Send, {U+007D} ; parentesi graffa apertura
 
 ;------------------------------------;
 ; Vocali maiuscole con accento acuto ;

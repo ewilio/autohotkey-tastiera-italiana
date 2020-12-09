@@ -1,8 +1,8 @@
-# Caratteri Extra per Tastiera Italiana con AutoHotKey
+# Maiuscole Accentate e Caratteri Aggiuntivi per Tastiera Italiana
 
 <img src="https://github.com/ewilio/autohotkey-tastiera-italiana/blob/master/extrakeys-ita.png" alt="Anteprima" width="80%"/>
 
-Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali accentate maiuscole usate in Italiano ``À È É Ì Ò Ù``.
+Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali maiuscole accentate usate in Italiano ``À È É Ì Ò Ù``.
 
 Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”``, la lineetta emme ``—``, la barra verticale (pipe) spezzata `¦` e il trattino alto (overscore) ``‾``.
 

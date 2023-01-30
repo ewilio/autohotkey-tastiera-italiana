@@ -1,5 +1,7 @@
 # Maiuscole Accentate e Caratteri Aggiuntivi per Tastiera Italiana
 
+> :information_source: **[È disponibile una nuova versione che non richiede l'installazione di AutoHotKey](https://github.com/ewilio/maiuscole-accentate-tastiera-italiana)**
+
 <img src="https://github.com/ewilio/autohotkey-tastiera-italiana/blob/master/extrakeys-ita.png" alt="Anteprima" width="80%"/>
 
 Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali maiuscole accentate usate in Italiano ``À È É Ì Ò Ù``.

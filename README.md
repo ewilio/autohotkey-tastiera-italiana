@@ -1,6 +1,8 @@
 # Maiuscole Accentate e Caratteri Aggiuntivi per Tastiera Italiana
 
-> :information_source: **[È disponibile una nuova versione che non richiede l'installazione di AutoHotKey](https://github.com/ewilio/maiuscole-accentate-tastiera-italiana)**
+> :new: 2023-02-01: **[Versione per tastiera con layout US](https://github.com/ewilio/maiuscole-accentate-tastiera-usa)**
+
+> :new: 2023-01-20: **[Nuova versione che non richiede l'installazione di AutoHotKey](https://github.com/ewilio/maiuscole-accentate-tastiera-italiana)**
 
 <img src="https://github.com/ewilio/autohotkey-tastiera-italiana/blob/master/extrakeys-ita.png" alt="Anteprima" width="80%"/>
 
